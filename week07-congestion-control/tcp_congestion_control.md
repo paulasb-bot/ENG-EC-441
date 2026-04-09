@@ -105,7 +105,7 @@ Duplicate ACKs indicate **mild congestion**, while timeouts indicate **severe co
 
 ---
 
-## 7. (Optional) Python Visualization
+## 7. Python Visualization
 
 For a more advanced version, you can generate a graph:
 
